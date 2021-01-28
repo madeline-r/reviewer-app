@@ -15,7 +15,7 @@
 ## Setup
 To start the project download the zip file, 
 open in your code editor (suggested - Visual Studio Code) and 
-enter npm start in the terminal.
+enter run servstart in the terminal.
 
 
 ## Features
