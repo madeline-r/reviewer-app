@@ -21,7 +21,7 @@ enter npm start in the terminal.
 ## Features
 List of features.
 * Show full review. 
-![Example screenshot](./review.png')
+![Example screenshot](./../review.png')
 
 * Add new review.
 ![Example screenshot](./new.png')
