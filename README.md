@@ -1,7 +1,7 @@
 # Reviewer
 > Reviewer is a web application to manage reviews for books you read
 
-![Example screenshot](./home.png')
+<img src="https://github.com/madeline-r/reviewer-app/blob/main/home.png" alt="drawing" width="1000"/>
 
 ## Technologies
 * NodeJS v12.16.1
@@ -21,13 +21,16 @@ enter npm start in the terminal.
 ## Features
 List of features.
 * Show full review. 
-![Example screenshot](./../review.png')
+
+<img src="https://github.com/madeline-r/reviewer-app/blob/main/review.png" alt="drawing" width="1000"/>
 
 * Add new review.
-![Example screenshot](./new.png')
+
+<img src="https://github.com/madeline-r/reviewer-app/blob/main/new.png" alt="drawing" width="1000"/>
 
 * Edit your review
-![Example screenshot](./edit.png')
+
+<img src="https://github.com/madeline-r/reviewer-app/blob/main/edit.png" alt="drawing" width="1000"/>
 
 * You can also delete your reviews.
 
