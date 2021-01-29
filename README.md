@@ -13,8 +13,8 @@
 * Bootstrap v5.0.0
 
 ## Setup
-To start the project download the zip file, 
-open in your code editor (suggested - Visual Studio Code) and 
+To start this project download the zip file, 
+open it in your code editor (suggested - Visual Studio Code) and 
 enter 'npm run startserv' in the terminal.
 
 
