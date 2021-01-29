@@ -15,7 +15,7 @@
 ## Setup
 To start the project download the zip file, 
 open in your code editor (suggested - Visual Studio Code) and 
-enter run servstart in the terminal.
+enter 'npm run startserv' in the terminal.
 
 
 ## Features
